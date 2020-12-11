@@ -1,0 +1,2061 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX15
+U 1 1 5FD17988
+P 2600 3100
+F 0 "MX15" H 2633 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 2633 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1975 3075 60  0001 C CNN
+F 3 "" H 1975 3075 60  0001 C CNN
+	1    2600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D15
+U 1 1 5FD17E65
+P 2500 3400
+F 0 "D15" V 2546 3320 50  0000 R CNN
+F 1 "1N4148W" V 2455 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 2500 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2500 3400 50  0001 C CNN
+	1    2500 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 3250 2550 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX16
+U 1 1 5FD1A39C
+P 3100 3100
+F 0 "MX16" H 3133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 3133 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2475 3075 60  0001 C CNN
+F 3 "" H 2475 3075 60  0001 C CNN
+	1    3100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D16
+U 1 1 5FD1A3A2
+P 3000 3400
+F 0 "D16" V 3046 3320 50  0000 R CNN
+F 1 "1N4148W" V 2955 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3000 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3000 3400 50  0001 C CNN
+	1    3000 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3000 3250 3050 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX17
+U 1 1 5FD1AE5D
+P 3600 3100
+F 0 "MX17" H 3633 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 3633 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2975 3075 60  0001 C CNN
+F 3 "" H 2975 3075 60  0001 C CNN
+	1    3600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D17
+U 1 1 5FD1AE63
+P 3500 3400
+F 0 "D17" V 3546 3320 50  0000 R CNN
+F 1 "1N4148W" V 3455 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3500 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 3400 50  0001 C CNN
+	1    3500 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 3250 3550 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX18
+U 1 1 5FD1B95D
+P 4100 3100
+F 0 "MX18" H 4133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 4133 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3475 3075 60  0001 C CNN
+F 3 "" H 3475 3075 60  0001 C CNN
+	1    4100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D18
+U 1 1 5FD1B963
+P 4000 3400
+F 0 "D18" V 4046 3320 50  0000 R CNN
+F 1 "1N4148W" V 3955 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4000 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 3400 50  0001 C CNN
+	1    4000 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 3250 4050 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX19
+U 1 1 5FD1C3A7
+P 4600 3100
+F 0 "MX19" H 4633 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 4633 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3975 3075 60  0001 C CNN
+F 3 "" H 3975 3075 60  0001 C CNN
+	1    4600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D19
+U 1 1 5FD1C3AD
+P 4500 3400
+F 0 "D19" V 4546 3320 50  0000 R CNN
+F 1 "1N4148W" V 4455 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4500 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4500 3400 50  0001 C CNN
+	1    4500 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4500 3250 4550 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX20
+U 1 1 5FD1CDF2
+P 5100 3100
+F 0 "MX20" H 5133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4475 3075 60  0001 C CNN
+F 3 "" H 4475 3075 60  0001 C CNN
+	1    5100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D20
+U 1 1 5FD1CDF8
+P 5000 3400
+F 0 "D20" V 5046 3320 50  0000 R CNN
+F 1 "1N4148W" V 4955 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5000 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5000 3400 50  0001 C CNN
+	1    5000 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 3250 5050 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX21
+U 1 1 5FD1DA3E
+P 5600 3100
+F 0 "MX21" H 5633 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 5633 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4975 3075 60  0001 C CNN
+F 3 "" H 4975 3075 60  0001 C CNN
+	1    5600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D21
+U 1 1 5FD1DA44
+P 5500 3400
+F 0 "D21" V 5546 3320 50  0000 R CNN
+F 1 "1N4148W" V 5455 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5500 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5500 3400 50  0001 C CNN
+	1    5500 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 3250 5550 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX22
+U 1 1 5FD1E75D
+P 6100 3100
+F 0 "MX22" H 6133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 6133 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5475 3075 60  0001 C CNN
+F 3 "" H 5475 3075 60  0001 C CNN
+	1    6100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D22
+U 1 1 5FD1E763
+P 6000 3400
+F 0 "D22" V 6046 3320 50  0000 R CNN
+F 1 "1N4148W" V 5955 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6000 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6000 3400 50  0001 C CNN
+	1    6000 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 3250 6050 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX23
+U 1 1 5FD1F50C
+P 6600 3100
+F 0 "MX23" H 6633 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 6633 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5975 3075 60  0001 C CNN
+F 3 "" H 5975 3075 60  0001 C CNN
+	1    6600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D23
+U 1 1 5FD1F512
+P 6500 3400
+F 0 "D23" V 6546 3320 50  0000 R CNN
+F 1 "1N4148W" V 6455 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6500 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6500 3400 50  0001 C CNN
+	1    6500 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6500 3250 6550 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX24
+U 1 1 5FD20178
+P 7100 3100
+F 0 "MX24" H 7133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 7133 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6475 3075 60  0001 C CNN
+F 3 "" H 6475 3075 60  0001 C CNN
+	1    7100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D24
+U 1 1 5FD2017E
+P 7000 3400
+F 0 "D24" V 7046 3320 50  0000 R CNN
+F 1 "1N4148W" V 6955 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7000 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7000 3400 50  0001 C CNN
+	1    7000 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7000 3250 7050 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX25
+U 1 1 5FD20C23
+P 7600 3100
+F 0 "MX25" H 7633 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 7633 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6975 3075 60  0001 C CNN
+F 3 "" H 6975 3075 60  0001 C CNN
+	1    7600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D25
+U 1 1 5FD20C29
+P 7500 3400
+F 0 "D25" V 7546 3320 50  0000 R CNN
+F 1 "1N4148W" V 7455 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7500 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7500 3400 50  0001 C CNN
+	1    7500 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 3250 7550 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX26
+U 1 1 5FD2183C
+P 8100 3100
+F 0 "MX26" H 8133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 8133 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7475 3075 60  0001 C CNN
+F 3 "" H 7475 3075 60  0001 C CNN
+	1    8100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D26
+U 1 1 5FD21842
+P 8000 3400
+F 0 "D26" V 8046 3320 50  0000 R CNN
+F 1 "1N4148W" V 7955 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8000 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8000 3400 50  0001 C CNN
+	1    8000 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8000 3250 8050 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX27
+U 1 1 5FD223CF
+P 8600 3100
+F 0 "MX27" H 8633 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 8633 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7975 3075 60  0001 C CNN
+F 3 "" H 7975 3075 60  0001 C CNN
+	1    8600 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D27
+U 1 1 5FD223D5
+P 8500 3400
+F 0 "D27" V 8546 3320 50  0000 R CNN
+F 1 "1N4148W" V 8455 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8500 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8500 3400 50  0001 C CNN
+	1    8500 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 3250 8550 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX28
+U 1 1 5FD22F4B
+P 9100 3100
+F 0 "MX28" H 9133 3323 60  0000 C CNN
+F 1 "MX-NoLED" H 9133 3249 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8475 3075 60  0001 C CNN
+F 3 "" H 8475 3075 60  0001 C CNN
+	1    9100 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D28
+U 1 1 5FD22F51
+P 9000 3400
+F 0 "D28" V 9046 3320 50  0000 R CNN
+F 1 "1N4148W" V 8955 3320 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 9000 3225 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9000 3400 50  0001 C CNN
+	1    9000 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9000 3250 9050 3250
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX29
+U 1 1 5FD48141
+P 2600 3900
+F 0 "MX29" H 2633 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 2633 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1975 3875 60  0001 C CNN
+F 3 "" H 1975 3875 60  0001 C CNN
+	1    2600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D29
+U 1 1 5FD48147
+P 2500 4200
+F 0 "D29" V 2546 4120 50  0000 R CNN
+F 1 "1N4148W" V 2455 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 2500 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2500 4200 50  0001 C CNN
+	1    2500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 4050 2550 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX30
+U 1 1 5FD4814E
+P 3100 3900
+F 0 "MX30" H 3133 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 3133 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2475 3875 60  0001 C CNN
+F 3 "" H 2475 3875 60  0001 C CNN
+	1    3100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D30
+U 1 1 5FD48154
+P 3000 4200
+F 0 "D30" V 3046 4120 50  0000 R CNN
+F 1 "1N4148W" V 2955 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3000 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3000 4200 50  0001 C CNN
+	1    3000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3000 4050 3050 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX31
+U 1 1 5FD4815B
+P 3600 3900
+F 0 "MX31" H 3633 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 3633 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2975 3875 60  0001 C CNN
+F 3 "" H 2975 3875 60  0001 C CNN
+	1    3600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D31
+U 1 1 5FD48161
+P 3500 4200
+F 0 "D31" V 3546 4120 50  0000 R CNN
+F 1 "1N4148W" V 3455 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3500 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 4200 50  0001 C CNN
+	1    3500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 4050 3550 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX32
+U 1 1 5FD48168
+P 4100 3900
+F 0 "MX32" H 4133 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 4133 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3475 3875 60  0001 C CNN
+F 3 "" H 3475 3875 60  0001 C CNN
+	1    4100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D32
+U 1 1 5FD4816E
+P 4000 4200
+F 0 "D32" V 4046 4120 50  0000 R CNN
+F 1 "1N4148W" V 3955 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4000 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 4200 50  0001 C CNN
+	1    4000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 4050 4050 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX33
+U 1 1 5FD48175
+P 4600 3900
+F 0 "MX33" H 4633 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 4633 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3975 3875 60  0001 C CNN
+F 3 "" H 3975 3875 60  0001 C CNN
+	1    4600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D33
+U 1 1 5FD4817B
+P 4500 4200
+F 0 "D33" V 4546 4120 50  0000 R CNN
+F 1 "1N4148W" V 4455 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4500 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4500 4200 50  0001 C CNN
+	1    4500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4500 4050 4550 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX34
+U 1 1 5FD48182
+P 5100 3900
+F 0 "MX34" H 5133 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4475 3875 60  0001 C CNN
+F 3 "" H 4475 3875 60  0001 C CNN
+	1    5100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D34
+U 1 1 5FD48188
+P 5000 4200
+F 0 "D34" V 5046 4120 50  0000 R CNN
+F 1 "1N4148W" V 4955 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5000 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5000 4200 50  0001 C CNN
+	1    5000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 4050 5050 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX35
+U 1 1 5FD4818F
+P 5600 3900
+F 0 "MX35" H 5633 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 5633 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4975 3875 60  0001 C CNN
+F 3 "" H 4975 3875 60  0001 C CNN
+	1    5600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D35
+U 1 1 5FD48195
+P 5500 4200
+F 0 "D35" V 5546 4120 50  0000 R CNN
+F 1 "1N4148W" V 5455 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5500 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5500 4200 50  0001 C CNN
+	1    5500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 4050 5550 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX36
+U 1 1 5FD4819C
+P 6100 3900
+F 0 "MX36" H 6133 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 6133 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5475 3875 60  0001 C CNN
+F 3 "" H 5475 3875 60  0001 C CNN
+	1    6100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D36
+U 1 1 5FD481A2
+P 6000 4200
+F 0 "D36" V 6046 4120 50  0000 R CNN
+F 1 "1N4148W" V 5955 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6000 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6000 4200 50  0001 C CNN
+	1    6000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 4050 6050 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX37
+U 1 1 5FD481A9
+P 6600 3900
+F 0 "MX37" H 6633 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 6633 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5975 3875 60  0001 C CNN
+F 3 "" H 5975 3875 60  0001 C CNN
+	1    6600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D37
+U 1 1 5FD481AF
+P 6500 4200
+F 0 "D37" V 6546 4120 50  0000 R CNN
+F 1 "1N4148W" V 6455 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6500 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6500 4200 50  0001 C CNN
+	1    6500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6500 4050 6550 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX38
+U 1 1 5FD481B6
+P 7100 3900
+F 0 "MX38" H 7133 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 7133 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6475 3875 60  0001 C CNN
+F 3 "" H 6475 3875 60  0001 C CNN
+	1    7100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D38
+U 1 1 5FD481BC
+P 7000 4200
+F 0 "D38" V 7046 4120 50  0000 R CNN
+F 1 "1N4148W" V 6955 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7000 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7000 4200 50  0001 C CNN
+	1    7000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7000 4050 7050 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX39
+U 1 1 5FD481C3
+P 7600 3900
+F 0 "MX39" H 7633 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 7633 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6975 3875 60  0001 C CNN
+F 3 "" H 6975 3875 60  0001 C CNN
+	1    7600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D39
+U 1 1 5FD481C9
+P 7500 4200
+F 0 "D39" V 7546 4120 50  0000 R CNN
+F 1 "1N4148W" V 7455 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7500 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7500 4200 50  0001 C CNN
+	1    7500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 4050 7550 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX40
+U 1 1 5FD481D0
+P 8100 3900
+F 0 "MX40" H 8133 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 8133 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7475 3875 60  0001 C CNN
+F 3 "" H 7475 3875 60  0001 C CNN
+	1    8100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D40
+U 1 1 5FD481D6
+P 8000 4200
+F 0 "D40" V 8046 4120 50  0000 R CNN
+F 1 "1N4148W" V 7955 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8000 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8000 4200 50  0001 C CNN
+	1    8000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8000 4050 8050 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX41
+U 1 1 5FD481DD
+P 8600 3900
+F 0 "MX41" H 8633 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 8633 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7975 3875 60  0001 C CNN
+F 3 "" H 7975 3875 60  0001 C CNN
+	1    8600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D41
+U 1 1 5FD481E3
+P 8500 4200
+F 0 "D41" V 8546 4120 50  0000 R CNN
+F 1 "1N4148W" V 8455 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8500 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8500 4200 50  0001 C CNN
+	1    8500 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 4050 8550 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX42
+U 1 1 5FD481EA
+P 9100 3900
+F 0 "MX42" H 9133 4123 60  0000 C CNN
+F 1 "MX-NoLED" H 9133 4049 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8475 3875 60  0001 C CNN
+F 3 "" H 8475 3875 60  0001 C CNN
+	1    9100 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D42
+U 1 1 5FD481F0
+P 9000 4200
+F 0 "D42" V 9046 4120 50  0000 R CNN
+F 1 "1N4148W" V 8955 4120 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 9000 4025 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9000 4200 50  0001 C CNN
+	1    9000 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9000 4050 9050 4050
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX43
+U 1 1 5FD568AC
+P 2600 4700
+F 0 "MX43" H 2633 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 2633 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1975 4675 60  0001 C CNN
+F 3 "" H 1975 4675 60  0001 C CNN
+	1    2600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D43
+U 1 1 5FD568B2
+P 2500 5000
+F 0 "D43" V 2546 4920 50  0000 R CNN
+F 1 "1N4148W" V 2455 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 2500 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2500 5000 50  0001 C CNN
+	1    2500 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 4850 2550 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX44
+U 1 1 5FD568B9
+P 3100 4700
+F 0 "MX44" H 3133 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 3133 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2475 4675 60  0001 C CNN
+F 3 "" H 2475 4675 60  0001 C CNN
+	1    3100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D44
+U 1 1 5FD568BF
+P 3000 5000
+F 0 "D44" V 3046 4920 50  0000 R CNN
+F 1 "1N4148W" V 2955 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3000 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3000 5000 50  0001 C CNN
+	1    3000 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3000 4850 3050 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX45
+U 1 1 5FD568C6
+P 3600 4700
+F 0 "MX45" H 3633 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 3633 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2975 4675 60  0001 C CNN
+F 3 "" H 2975 4675 60  0001 C CNN
+	1    3600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D45
+U 1 1 5FD568CC
+P 3500 5000
+F 0 "D45" V 3546 4920 50  0000 R CNN
+F 1 "1N4148W" V 3455 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3500 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 5000 50  0001 C CNN
+	1    3500 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 4850 3550 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX46
+U 1 1 5FD568D3
+P 4100 4700
+F 0 "MX46" H 4133 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 4133 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3475 4675 60  0001 C CNN
+F 3 "" H 3475 4675 60  0001 C CNN
+	1    4100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D46
+U 1 1 5FD568D9
+P 4000 5000
+F 0 "D46" V 4046 4920 50  0000 R CNN
+F 1 "1N4148W" V 3955 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4000 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 5000 50  0001 C CNN
+	1    4000 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 4850 4050 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX47
+U 1 1 5FD568E0
+P 4600 4700
+F 0 "MX47" H 4633 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 4633 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3975 4675 60  0001 C CNN
+F 3 "" H 3975 4675 60  0001 C CNN
+	1    4600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D47
+U 1 1 5FD568E6
+P 4500 5000
+F 0 "D47" V 4546 4920 50  0000 R CNN
+F 1 "1N4148W" V 4455 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4500 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4500 5000 50  0001 C CNN
+	1    4500 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4500 4850 4550 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX48
+U 1 1 5FD568ED
+P 5100 4700
+F 0 "MX48" H 5133 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4475 4675 60  0001 C CNN
+F 3 "" H 4475 4675 60  0001 C CNN
+	1    5100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D48
+U 1 1 5FD568F3
+P 5000 5000
+F 0 "D48" V 5046 4920 50  0000 R CNN
+F 1 "1N4148W" V 4955 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5000 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5000 5000 50  0001 C CNN
+	1    5000 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 4850 5050 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX49
+U 1 1 5FD568FA
+P 5600 4700
+F 0 "MX49" H 5633 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 5633 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4975 4675 60  0001 C CNN
+F 3 "" H 4975 4675 60  0001 C CNN
+	1    5600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D49
+U 1 1 5FD56900
+P 5500 5000
+F 0 "D49" V 5546 4920 50  0000 R CNN
+F 1 "1N4148W" V 5455 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5500 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5500 5000 50  0001 C CNN
+	1    5500 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 4850 5550 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX50
+U 1 1 5FD56907
+P 6100 4700
+F 0 "MX50" H 6133 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 6133 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5475 4675 60  0001 C CNN
+F 3 "" H 5475 4675 60  0001 C CNN
+	1    6100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D50
+U 1 1 5FD5690D
+P 6000 5000
+F 0 "D50" V 6046 4920 50  0000 R CNN
+F 1 "1N4148W" V 5955 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6000 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6000 5000 50  0001 C CNN
+	1    6000 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 4850 6050 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX51
+U 1 1 5FD56914
+P 6600 4700
+F 0 "MX51" H 6633 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 6633 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5975 4675 60  0001 C CNN
+F 3 "" H 5975 4675 60  0001 C CNN
+	1    6600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D51
+U 1 1 5FD5691A
+P 6500 5000
+F 0 "D51" V 6546 4920 50  0000 R CNN
+F 1 "1N4148W" V 6455 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6500 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6500 5000 50  0001 C CNN
+	1    6500 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6500 4850 6550 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX52
+U 1 1 5FD56921
+P 7100 4700
+F 0 "MX52" H 7133 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 7133 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6475 4675 60  0001 C CNN
+F 3 "" H 6475 4675 60  0001 C CNN
+	1    7100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D52
+U 1 1 5FD56927
+P 7000 5000
+F 0 "D52" V 7046 4920 50  0000 R CNN
+F 1 "1N4148W" V 6955 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7000 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7000 5000 50  0001 C CNN
+	1    7000 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7000 4850 7050 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX53
+U 1 1 5FD5692E
+P 7600 4700
+F 0 "MX53" H 7633 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 7633 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6975 4675 60  0001 C CNN
+F 3 "" H 6975 4675 60  0001 C CNN
+	1    7600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D53
+U 1 1 5FD56934
+P 7500 5000
+F 0 "D53" V 7546 4920 50  0000 R CNN
+F 1 "1N4148W" V 7455 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7500 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7500 5000 50  0001 C CNN
+	1    7500 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 4850 7550 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX54
+U 1 1 5FD5693B
+P 8100 4700
+F 0 "MX54" H 8133 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 8133 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7475 4675 60  0001 C CNN
+F 3 "" H 7475 4675 60  0001 C CNN
+	1    8100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D54
+U 1 1 5FD56941
+P 8000 5000
+F 0 "D54" V 8046 4920 50  0000 R CNN
+F 1 "1N4148W" V 7955 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8000 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8000 5000 50  0001 C CNN
+	1    8000 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8000 4850 8050 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX55
+U 1 1 5FD56948
+P 8600 4700
+F 0 "MX55" H 8633 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 8633 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7975 4675 60  0001 C CNN
+F 3 "" H 7975 4675 60  0001 C CNN
+	1    8600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D55
+U 1 1 5FD5694E
+P 8500 5000
+F 0 "D55" V 8546 4920 50  0000 R CNN
+F 1 "1N4148W" V 8455 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8500 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8500 5000 50  0001 C CNN
+	1    8500 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 4850 8550 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX56
+U 1 1 5FD56955
+P 9100 4700
+F 0 "MX56" H 9133 4923 60  0000 C CNN
+F 1 "MX-NoLED" H 9133 4849 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8475 4675 60  0001 C CNN
+F 3 "" H 8475 4675 60  0001 C CNN
+	1    9100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D56
+U 1 1 5FD5695B
+P 9000 5000
+F 0 "D56" V 9046 4920 50  0000 R CNN
+F 1 "1N4148W" V 8955 4920 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 9000 4825 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9000 5000 50  0001 C CNN
+	1    9000 5000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9000 4850 9050 4850
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX57
+U 1 1 5FD64AFC
+P 2600 5500
+F 0 "MX57" H 2633 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 2633 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1975 5475 60  0001 C CNN
+F 3 "" H 1975 5475 60  0001 C CNN
+	1    2600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D57
+U 1 1 5FD64B02
+P 2500 5800
+F 0 "D57" V 2546 5720 50  0000 R CNN
+F 1 "1N4148W" V 2455 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 2500 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2500 5800 50  0001 C CNN
+	1    2500 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 5650 2550 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX58
+U 1 1 5FD64B09
+P 3100 5500
+F 0 "MX58" H 3133 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 3133 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2475 5475 60  0001 C CNN
+F 3 "" H 2475 5475 60  0001 C CNN
+	1    3100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D58
+U 1 1 5FD64B0F
+P 3000 5800
+F 0 "D58" V 3046 5720 50  0000 R CNN
+F 1 "1N4148W" V 2955 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3000 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3000 5800 50  0001 C CNN
+	1    3000 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3000 5650 3050 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX59
+U 1 1 5FD64B16
+P 3600 5500
+F 0 "MX59" H 3633 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 3633 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2975 5475 60  0001 C CNN
+F 3 "" H 2975 5475 60  0001 C CNN
+	1    3600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D59
+U 1 1 5FD64B1C
+P 3500 5800
+F 0 "D59" V 3546 5720 50  0000 R CNN
+F 1 "1N4148W" V 3455 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3500 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 5800 50  0001 C CNN
+	1    3500 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 5650 3550 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX60
+U 1 1 5FD64B23
+P 4100 5500
+F 0 "MX60" H 4133 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 4133 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 3475 5475 60  0001 C CNN
+F 3 "" H 3475 5475 60  0001 C CNN
+	1    4100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D60
+U 1 1 5FD64B29
+P 4000 5800
+F 0 "D60" V 4046 5720 50  0000 R CNN
+F 1 "1N4148W" V 3955 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4000 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 5800 50  0001 C CNN
+	1    4000 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 5650 4050 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX61
+U 1 1 5FD64B3D
+P 5100 5500
+F 0 "MX61" H 5133 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4475 5475 60  0001 C CNN
+F 3 "" H 4475 5475 60  0001 C CNN
+	1    5100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D61
+U 1 1 5FD64B43
+P 5000 5800
+F 0 "D61" V 5046 5720 50  0000 R CNN
+F 1 "1N4148W" V 4955 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5000 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5000 5800 50  0001 C CNN
+	1    5000 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 5650 5050 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX62
+U 1 1 5FD64B4A
+P 5600 5500
+F 0 "MX62" H 5633 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 5633 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4975 5475 60  0001 C CNN
+F 3 "" H 4975 5475 60  0001 C CNN
+	1    5600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D62
+U 1 1 5FD64B50
+P 5500 5800
+F 0 "D62" V 5546 5720 50  0000 R CNN
+F 1 "1N4148W" V 5455 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5500 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5500 5800 50  0001 C CNN
+	1    5500 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 5650 5550 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX63
+U 1 1 5FD64B64
+P 6600 5500
+F 0 "MX63" H 6633 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 6633 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-2U-ReversedStabilizers-NoLED" H 5975 5475 60  0001 C CNN
+F 3 "" H 5975 5475 60  0001 C CNN
+	1    6600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D63
+U 1 1 5FD64B6A
+P 6500 5800
+F 0 "D63" V 6546 5720 50  0000 R CNN
+F 1 "1N4148W" V 6455 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6500 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6500 5800 50  0001 C CNN
+	1    6500 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6500 5650 6550 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX64
+U 1 1 5FD64B71
+P 7100 5500
+F 0 "MX64" H 7133 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 7133 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6475 5475 60  0001 C CNN
+F 3 "" H 6475 5475 60  0001 C CNN
+	1    7100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D64
+U 1 1 5FD64B77
+P 7000 5800
+F 0 "D64" V 7046 5720 50  0000 R CNN
+F 1 "1N4148W" V 6955 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7000 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7000 5800 50  0001 C CNN
+	1    7000 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7000 5650 7050 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX65
+U 1 1 5FD64B7E
+P 7600 5500
+F 0 "MX65" H 7633 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 7633 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6975 5475 60  0001 C CNN
+F 3 "" H 6975 5475 60  0001 C CNN
+	1    7600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D65
+U 1 1 5FD64B84
+P 7500 5800
+F 0 "D65" V 7546 5720 50  0000 R CNN
+F 1 "1N4148W" V 7455 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7500 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7500 5800 50  0001 C CNN
+	1    7500 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 5650 7550 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX66
+U 1 1 5FD64B8B
+P 8100 5500
+F 0 "MX66" H 8133 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 8133 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7475 5475 60  0001 C CNN
+F 3 "" H 7475 5475 60  0001 C CNN
+	1    8100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D66
+U 1 1 5FD64B91
+P 8000 5800
+F 0 "D66" V 8046 5720 50  0000 R CNN
+F 1 "1N4148W" V 7955 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8000 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8000 5800 50  0001 C CNN
+	1    8000 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8000 5650 8050 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX67
+U 1 1 5FD64B98
+P 8600 5500
+F 0 "MX67" H 8633 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 8633 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7975 5475 60  0001 C CNN
+F 3 "" H 7975 5475 60  0001 C CNN
+	1    8600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D67
+U 1 1 5FD64B9E
+P 8500 5800
+F 0 "D67" V 8546 5720 50  0000 R CNN
+F 1 "1N4148W" V 8455 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8500 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8500 5800 50  0001 C CNN
+	1    8500 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 5650 8550 5650
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX68
+U 1 1 5FD64BA5
+P 9100 5500
+F 0 "MX68" H 9133 5723 60  0000 C CNN
+F 1 "MX-NoLED" H 9133 5649 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8475 5475 60  0001 C CNN
+F 3 "" H 8475 5475 60  0001 C CNN
+	1    9100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D68
+U 1 1 5FD64BAB
+P 9000 5800
+F 0 "D68" V 9046 5720 50  0000 R CNN
+F 1 "1N4148W" V 8955 5720 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 9000 5625 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9000 5800 50  0001 C CNN
+	1    9000 5800
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9000 5650 9050 5650
+Text GLabel 2350 2750 0    50   Input ~ 0
+row0
+Text GLabel 2350 3550 0    50   Input ~ 0
+row1
+Text GLabel 2350 4350 0    50   Input ~ 0
+row2
+Text GLabel 2350 5150 0    50   Input ~ 0
+row3
+Wire Wire Line
+	2350 3550 2500 3550
+Connection ~ 2500 3550
+Wire Wire Line
+	2500 3550 3000 3550
+Connection ~ 3000 3550
+Wire Wire Line
+	3000 3550 3500 3550
+Connection ~ 3500 3550
+Wire Wire Line
+	3500 3550 4000 3550
+Connection ~ 4000 3550
+Wire Wire Line
+	4000 3550 4500 3550
+Connection ~ 4500 3550
+Wire Wire Line
+	4500 3550 5000 3550
+Connection ~ 5000 3550
+Wire Wire Line
+	5000 3550 5500 3550
+Connection ~ 5500 3550
+Wire Wire Line
+	5500 3550 6000 3550
+Connection ~ 6000 3550
+Wire Wire Line
+	6000 3550 6500 3550
+Connection ~ 6500 3550
+Wire Wire Line
+	6500 3550 7000 3550
+Connection ~ 7000 3550
+Wire Wire Line
+	7000 3550 7500 3550
+Connection ~ 7500 3550
+Wire Wire Line
+	7500 3550 8000 3550
+Connection ~ 8000 3550
+Wire Wire Line
+	8000 3550 8500 3550
+Connection ~ 8500 3550
+Wire Wire Line
+	8500 3550 9000 3550
+Wire Wire Line
+	2350 4350 2500 4350
+Connection ~ 2500 4350
+Wire Wire Line
+	2500 4350 3000 4350
+Connection ~ 3000 4350
+Wire Wire Line
+	3000 4350 3500 4350
+Connection ~ 3500 4350
+Wire Wire Line
+	3500 4350 4000 4350
+Connection ~ 4000 4350
+Wire Wire Line
+	4000 4350 4500 4350
+Connection ~ 4500 4350
+Wire Wire Line
+	4500 4350 5000 4350
+Connection ~ 5000 4350
+Wire Wire Line
+	5000 4350 5500 4350
+Connection ~ 5500 4350
+Wire Wire Line
+	5500 4350 6000 4350
+Connection ~ 6000 4350
+Wire Wire Line
+	6000 4350 6500 4350
+Connection ~ 6500 4350
+Wire Wire Line
+	6500 4350 7000 4350
+Connection ~ 7000 4350
+Wire Wire Line
+	7000 4350 7500 4350
+Connection ~ 7500 4350
+Wire Wire Line
+	7500 4350 8000 4350
+Connection ~ 8000 4350
+Wire Wire Line
+	8000 4350 8500 4350
+Connection ~ 8500 4350
+Wire Wire Line
+	8500 4350 9000 4350
+Wire Wire Line
+	2350 5150 2500 5150
+Connection ~ 2500 5150
+Wire Wire Line
+	2500 5150 3000 5150
+Connection ~ 3000 5150
+Wire Wire Line
+	3000 5150 3500 5150
+Connection ~ 3500 5150
+Wire Wire Line
+	3500 5150 4000 5150
+Connection ~ 4000 5150
+Wire Wire Line
+	4000 5150 4500 5150
+Connection ~ 4500 5150
+Wire Wire Line
+	4500 5150 5000 5150
+Connection ~ 5000 5150
+Wire Wire Line
+	5000 5150 5500 5150
+Connection ~ 5500 5150
+Wire Wire Line
+	5500 5150 6000 5150
+Connection ~ 6000 5150
+Wire Wire Line
+	6000 5150 6500 5150
+Connection ~ 6500 5150
+Wire Wire Line
+	6500 5150 7000 5150
+Connection ~ 7000 5150
+Wire Wire Line
+	7000 5150 7500 5150
+Connection ~ 7500 5150
+Wire Wire Line
+	7500 5150 8000 5150
+Connection ~ 8000 5150
+Wire Wire Line
+	8000 5150 8500 5150
+Connection ~ 8500 5150
+Wire Wire Line
+	8500 5150 9000 5150
+Wire Wire Line
+	2350 5950 2500 5950
+Connection ~ 2500 5950
+Wire Wire Line
+	2500 5950 3000 5950
+Connection ~ 3000 5950
+Wire Wire Line
+	3000 5950 3500 5950
+Connection ~ 3500 5950
+Wire Wire Line
+	3500 5950 4000 5950
+Connection ~ 4000 5950
+Wire Wire Line
+	4000 5950 5000 5950
+Connection ~ 5000 5950
+Wire Wire Line
+	5000 5950 5500 5950
+Connection ~ 5500 5950
+Wire Wire Line
+	5500 5950 6500 5950
+Connection ~ 6500 5950
+Wire Wire Line
+	6500 5950 7000 5950
+Connection ~ 7000 5950
+Wire Wire Line
+	7000 5950 7500 5950
+Connection ~ 7500 5950
+Wire Wire Line
+	7500 5950 8000 5950
+Connection ~ 8000 5950
+Wire Wire Line
+	8000 5950 8500 5950
+Connection ~ 8500 5950
+Wire Wire Line
+	8500 5950 9000 5950
+Wire Wire Line
+	2750 3050 2750 3850
+Connection ~ 2750 3850
+Wire Wire Line
+	2750 3850 2750 4650
+Connection ~ 2750 4650
+Wire Wire Line
+	2750 4650 2750 5450
+Wire Wire Line
+	3250 3050 3250 3850
+Connection ~ 3250 3850
+Wire Wire Line
+	3250 3850 3250 4650
+Connection ~ 3250 4650
+Wire Wire Line
+	3250 4650 3250 5450
+Wire Wire Line
+	3750 3050 3750 3850
+Connection ~ 3750 3850
+Wire Wire Line
+	3750 3850 3750 4650
+Connection ~ 3750 4650
+Wire Wire Line
+	3750 4650 3750 5450
+Wire Wire Line
+	4250 3050 4250 3850
+Connection ~ 4250 3850
+Wire Wire Line
+	4250 3850 4250 4650
+Connection ~ 4250 4650
+Wire Wire Line
+	4250 4650 4250 5450
+Wire Wire Line
+	4750 3050 4750 3850
+Connection ~ 4750 3850
+Wire Wire Line
+	4750 3850 4750 4650
+Wire Wire Line
+	5250 3050 5250 3850
+Connection ~ 5250 3850
+Wire Wire Line
+	5250 3850 5250 4650
+Connection ~ 5250 4650
+Wire Wire Line
+	5250 4650 5250 5450
+Wire Wire Line
+	5750 3050 5750 3850
+Connection ~ 5750 3850
+Wire Wire Line
+	5750 3850 5750 4650
+Connection ~ 5750 4650
+Wire Wire Line
+	5750 4650 5750 5450
+Wire Wire Line
+	6250 3050 6250 3850
+Connection ~ 6250 3850
+Wire Wire Line
+	6250 3850 6250 4650
+Wire Wire Line
+	6750 3050 6750 3850
+Connection ~ 6750 3850
+Wire Wire Line
+	6750 3850 6750 4650
+Connection ~ 6750 4650
+Wire Wire Line
+	6750 4650 6750 5450
+Wire Wire Line
+	7250 3050 7250 3850
+Connection ~ 7250 3850
+Wire Wire Line
+	7250 3850 7250 4650
+Connection ~ 7250 4650
+Wire Wire Line
+	7250 4650 7250 5450
+Wire Wire Line
+	7750 3050 7750 3850
+Connection ~ 7750 3850
+Wire Wire Line
+	7750 3850 7750 4650
+Connection ~ 7750 4650
+Wire Wire Line
+	7750 4650 7750 5450
+Wire Wire Line
+	8250 3050 8250 3850
+Connection ~ 8250 3850
+Wire Wire Line
+	8250 3850 8250 4650
+Connection ~ 8250 4650
+Wire Wire Line
+	8250 4650 8250 5450
+Wire Wire Line
+	8750 3050 8750 3850
+Connection ~ 8750 3850
+Wire Wire Line
+	8750 3850 8750 4650
+Connection ~ 8750 4650
+Wire Wire Line
+	8750 4650 8750 5450
+Wire Wire Line
+	9250 3050 9250 3850
+Connection ~ 9250 3850
+Wire Wire Line
+	9250 3850 9250 4650
+Connection ~ 9250 4650
+Wire Wire Line
+	9250 4650 9250 5450
+Text GLabel 2750 1950 0    50   Input ~ 0
+col0
+Text GLabel 3250 1950 0    50   Input ~ 0
+col1
+Text GLabel 3750 1950 0    50   Input ~ 0
+col2
+Text GLabel 5750 1950 0    50   Input ~ 0
+col6
+Text GLabel 6250 1950 0    50   Input ~ 0
+col7
+Text GLabel 6750 1950 0    50   Input ~ 0
+col8
+Text GLabel 7250 1950 0    50   Input ~ 0
+col9
+Text GLabel 7750 1950 0    50   Input ~ 0
+col10
+Text GLabel 8250 1950 0    50   Input ~ 0
+col11
+Text GLabel 8750 1950 0    50   Input ~ 0
+col12
+Text GLabel 9250 1950 0    50   Input ~ 0
+col13
+Text GLabel 2350 5950 0    50   Input ~ 0
+row4
+Text GLabel 5250 1950 0    50   Input ~ 0
+col5
+Text GLabel 4750 1950 0    50   Input ~ 0
+col4
+Text GLabel 4250 1950 0    50   Input ~ 0
+col3
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 5FE7450F
+P 2600 2300
+F 0 "MX1" H 2633 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 2633 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 1975 2275 60  0001 C CNN
+F 3 "" H 1975 2275 60  0001 C CNN
+	1    2600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D1
+U 1 1 5FE74515
+P 2500 2600
+F 0 "D1" V 2546 2520 50  0000 R CNN
+F 1 "1N4148W" V 2455 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 2500 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2500 2600 50  0001 C CNN
+	1    2500 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 2450 2550 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX2
+U 1 1 5FE7451C
+P 3100 2300
+F 0 "MX2" H 3133 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 3133 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2475 2275 60  0001 C CNN
+F 3 "" H 2475 2275 60  0001 C CNN
+	1    3100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D2
+U 1 1 5FE74522
+P 3000 2600
+F 0 "D2" V 3046 2520 50  0000 R CNN
+F 1 "1N4148W" V 2955 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3000 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3000 2600 50  0001 C CNN
+	1    3000 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3000 2450 3050 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX3
+U 1 1 5FE74529
+P 3600 2300
+F 0 "MX3" H 3633 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 3633 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 2975 2275 60  0001 C CNN
+F 3 "" H 2975 2275 60  0001 C CNN
+	1    3600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D3
+U 1 1 5FE7452F
+P 3500 2600
+F 0 "D3" V 3546 2520 50  0000 R CNN
+F 1 "1N4148W" V 3455 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 3500 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3500 2600 50  0001 C CNN
+	1    3500 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 2450 3550 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX4
+U 1 1 5FE74536
+P 4100 2300
+F 0 "MX4" H 4133 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 4133 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3475 2275 60  0001 C CNN
+F 3 "" H 3475 2275 60  0001 C CNN
+	1    4100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D4
+U 1 1 5FE7453C
+P 4000 2600
+F 0 "D4" V 4046 2520 50  0000 R CNN
+F 1 "1N4148W" V 3955 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4000 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4000 2600 50  0001 C CNN
+	1    4000 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 2450 4050 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX5
+U 1 1 5FE74543
+P 4600 2300
+F 0 "MX5" H 4633 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 4633 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 3975 2275 60  0001 C CNN
+F 3 "" H 3975 2275 60  0001 C CNN
+	1    4600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D5
+U 1 1 5FE74549
+P 4500 2600
+F 0 "D5" V 4546 2520 50  0000 R CNN
+F 1 "1N4148W" V 4455 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 4500 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4500 2600 50  0001 C CNN
+	1    4500 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4500 2450 4550 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX6
+U 1 1 5FE74550
+P 5100 2300
+F 0 "MX6" H 5133 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4475 2275 60  0001 C CNN
+F 3 "" H 4475 2275 60  0001 C CNN
+	1    5100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D6
+U 1 1 5FE74556
+P 5000 2600
+F 0 "D6" V 5046 2520 50  0000 R CNN
+F 1 "1N4148W" V 4955 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5000 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5000 2600 50  0001 C CNN
+	1    5000 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 2450 5050 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX7
+U 1 1 5FE7455D
+P 5600 2300
+F 0 "MX7" H 5633 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 5633 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 4975 2275 60  0001 C CNN
+F 3 "" H 4975 2275 60  0001 C CNN
+	1    5600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D7
+U 1 1 5FE74563
+P 5500 2600
+F 0 "D7" V 5546 2520 50  0000 R CNN
+F 1 "1N4148W" V 5455 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 5500 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5500 2600 50  0001 C CNN
+	1    5500 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 2450 5550 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX8
+U 1 1 5FE7456A
+P 6100 2300
+F 0 "MX8" H 6133 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 6133 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5475 2275 60  0001 C CNN
+F 3 "" H 5475 2275 60  0001 C CNN
+	1    6100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D8
+U 1 1 5FE74570
+P 6000 2600
+F 0 "D8" V 6046 2520 50  0000 R CNN
+F 1 "1N4148W" V 5955 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6000 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6000 2600 50  0001 C CNN
+	1    6000 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6000 2450 6050 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX9
+U 1 1 5FE74577
+P 6600 2300
+F 0 "MX9" H 6633 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 6633 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 5975 2275 60  0001 C CNN
+F 3 "" H 5975 2275 60  0001 C CNN
+	1    6600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D9
+U 1 1 5FE7457D
+P 6500 2600
+F 0 "D9" V 6546 2520 50  0000 R CNN
+F 1 "1N4148W" V 6455 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 6500 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6500 2600 50  0001 C CNN
+	1    6500 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6500 2450 6550 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX10
+U 1 1 5FE74584
+P 7100 2300
+F 0 "MX10" H 7133 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 7133 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6475 2275 60  0001 C CNN
+F 3 "" H 6475 2275 60  0001 C CNN
+	1    7100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D10
+U 1 1 5FE7458A
+P 7000 2600
+F 0 "D10" V 7046 2520 50  0000 R CNN
+F 1 "1N4148W" V 6955 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7000 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7000 2600 50  0001 C CNN
+	1    7000 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7000 2450 7050 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX11
+U 1 1 5FE74591
+P 7600 2300
+F 0 "MX11" H 7633 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 7633 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 6975 2275 60  0001 C CNN
+F 3 "" H 6975 2275 60  0001 C CNN
+	1    7600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D11
+U 1 1 5FE74597
+P 7500 2600
+F 0 "D11" V 7546 2520 50  0000 R CNN
+F 1 "1N4148W" V 7455 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 7500 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 7500 2600 50  0001 C CNN
+	1    7500 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7500 2450 7550 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX12
+U 1 1 5FE7459E
+P 8100 2300
+F 0 "MX12" H 8133 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 8133 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7475 2275 60  0001 C CNN
+F 3 "" H 7475 2275 60  0001 C CNN
+	1    8100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D12
+U 1 1 5FE745A4
+P 8000 2600
+F 0 "D12" V 8046 2520 50  0000 R CNN
+F 1 "1N4148W" V 7955 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8000 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8000 2600 50  0001 C CNN
+	1    8000 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8000 2450 8050 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX13
+U 1 1 5FE745AB
+P 8600 2300
+F 0 "MX13" H 8633 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 8633 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 7975 2275 60  0001 C CNN
+F 3 "" H 7975 2275 60  0001 C CNN
+	1    8600 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D13
+U 1 1 5FE745B1
+P 8500 2600
+F 0 "D13" V 8546 2520 50  0000 R CNN
+F 1 "1N4148W" V 8455 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 8500 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 8500 2600 50  0001 C CNN
+	1    8500 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 2450 8550 2450
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX14
+U 1 1 5FE745B8
+P 9100 2300
+F 0 "MX14" H 9133 2523 60  0000 C CNN
+F 1 "MX-NoLED" H 9133 2449 20  0000 C CNN
+F 2 "MX_Only:MXOnly-1U-NoLED" H 8475 2275 60  0001 C CNN
+F 3 "" H 8475 2275 60  0001 C CNN
+	1    9100 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D14
+U 1 1 5FE745BE
+P 9000 2600
+F 0 "D14" V 9046 2520 50  0000 R CNN
+F 1 "1N4148W" V 8955 2520 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-dual - Copy" H 9000 2425 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 9000 2600 50  0001 C CNN
+	1    9000 2600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9000 2450 9050 2450
+Wire Wire Line
+	2750 2250 2750 3050
+Wire Wire Line
+	3250 2250 3250 3050
+Wire Wire Line
+	3750 2250 3750 3050
+Wire Wire Line
+	4250 2250 4250 3050
+Wire Wire Line
+	5250 2250 5250 3050
+Wire Wire Line
+	5750 2250 5750 3050
+Wire Wire Line
+	6250 2250 6250 3050
+Wire Wire Line
+	6750 2250 6750 3050
+Wire Wire Line
+	7250 2250 7250 3050
+Wire Wire Line
+	7750 2250 7750 3050
+Wire Wire Line
+	8250 2250 8250 3050
+Wire Wire Line
+	9250 2250 9250 3050
+Wire Wire Line
+	2750 1950 2750 2250
+Connection ~ 2750 2250
+Wire Wire Line
+	3250 1950 3250 2250
+Connection ~ 3250 2250
+Wire Wire Line
+	3750 1950 3750 2250
+Connection ~ 3750 2250
+Wire Wire Line
+	4250 1950 4250 2250
+Connection ~ 4250 2250
+Wire Wire Line
+	4750 1950 4750 2250
+Connection ~ 4750 2250
+Wire Wire Line
+	4750 2250 4750 3050
+Wire Wire Line
+	5250 1950 5250 2250
+Connection ~ 5250 2250
+Wire Wire Line
+	5750 1950 5750 2250
+Connection ~ 5750 2250
+Wire Wire Line
+	6250 1950 6250 2250
+Connection ~ 6250 2250
+Wire Wire Line
+	6750 1950 6750 2250
+Connection ~ 6750 2250
+Wire Wire Line
+	7250 1950 7250 2250
+Connection ~ 7250 2250
+Wire Wire Line
+	7750 1950 7750 2250
+Connection ~ 7750 2250
+Wire Wire Line
+	8250 1950 8250 2250
+Connection ~ 8250 2250
+Wire Wire Line
+	8750 1950 8750 2250
+Connection ~ 8750 2250
+Wire Wire Line
+	8750 2250 8750 3050
+Wire Wire Line
+	9250 1950 9250 2250
+Connection ~ 9250 2250
+Wire Wire Line
+	9000 2750 8500 2750
+Connection ~ 2500 2750
+Wire Wire Line
+	2500 2750 2350 2750
+Connection ~ 3000 2750
+Wire Wire Line
+	3000 2750 2500 2750
+Connection ~ 3500 2750
+Wire Wire Line
+	3500 2750 3000 2750
+Connection ~ 4000 2750
+Wire Wire Line
+	4000 2750 3500 2750
+Connection ~ 4500 2750
+Wire Wire Line
+	4500 2750 4000 2750
+Connection ~ 5000 2750
+Wire Wire Line
+	5000 2750 4500 2750
+Connection ~ 5500 2750
+Wire Wire Line
+	5500 2750 5000 2750
+Connection ~ 6000 2750
+Wire Wire Line
+	6000 2750 5500 2750
+Connection ~ 6500 2750
+Wire Wire Line
+	6500 2750 6000 2750
+Connection ~ 7000 2750
+Wire Wire Line
+	7000 2750 6500 2750
+Connection ~ 7500 2750
+Wire Wire Line
+	7500 2750 7000 2750
+Connection ~ 8000 2750
+Wire Wire Line
+	8000 2750 7500 2750
+Connection ~ 8500 2750
+Wire Wire Line
+	8500 2750 8000 2750
+$EndSCHEMATC
