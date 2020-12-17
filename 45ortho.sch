@@ -2396,33 +2396,69 @@ F 3 "~" H 2200 2350 50  0001 C CNN
 	1    2200 2350
 	-1   0    0    1   
 $EndComp
-Text GLabel 2400 2250 2    50   Input ~ 0
-B0
 Text GLabel 2400 2350 2    50   Input ~ 0
-D5
+row0
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5FD71D60
 P 10100 5200
-F 0 "#PWR?" H 10100 4950 50  0001 C CNN
+F 0 "#PWR0101" H 10100 4950 50  0001 C CNN
 F 1 "GND" H 10105 5027 50  0000 C CNN
 F 2 "" H 10100 5200 50  0001 C CNN
 F 3 "" H 10100 5200 50  0001 C CNN
 	1    10100 5200
 	0    -1   -1   0   
 $EndComp
+Text GLabel 8700 5100 0    50   Input ~ 0
+col4
+Text GLabel 8700 5200 0    50   Input ~ 0
+col5
+Text GLabel 8700 5500 0    50   Input ~ 0
+col6
+Text GLabel 8700 5600 0    50   Input ~ 0
+col7
+Text GLabel 8700 5700 0    50   Input ~ 0
+col8
+Text GLabel 8700 6200 0    50   Input ~ 0
+col9
+Text GLabel 8700 6100 0    50   Input ~ 0
+col10
+Text GLabel 8700 6000 0    50   Input ~ 0
+col11
+Text GLabel 8700 5900 0    50   Input ~ 0
+col12
+Wire Wire Line
+	8700 5300 8700 5350
 $Comp
-L power:GND #PWR?
-U 1 1 5FD72B35
-P 8700 5300
-F 0 "#PWR?" H 8700 5050 50  0001 C CNN
-F 1 "GND" H 8705 5127 50  0000 C CNN
-F 2 "" H 8700 5300 50  0001 C CNN
-F 3 "" H 8700 5300 50  0001 C CNN
-	1    8700 5300
+L power:GND #PWR0102
+U 1 1 5FE81EA4
+P 8700 5350
+F 0 "#PWR0102" H 8700 5100 50  0001 C CNN
+F 1 "GND" V 8705 5222 50  0000 R CNN
+F 2 "" H 8700 5350 50  0001 C CNN
+F 3 "" H 8700 5350 50  0001 C CNN
+	1    8700 5350
 	0    1    1    0   
 $EndComp
+Connection ~ 8700 5350
 Wire Wire Line
-	8700 5400 8700 5300
-Connection ~ 8700 5300
+	8700 5350 8700 5400
+Text GLabel 8700 5800 0    50   Input ~ 0
+col13
+Text GLabel 10100 5500 2    50   Input ~ 0
+col0
+Text GLabel 10100 5600 2    50   Input ~ 0
+col1
+Text GLabel 10100 5700 2    50   Input ~ 0
+col2
+Text GLabel 10100 5800 2    50   Input ~ 0
+col3
+Text GLabel 10100 5900 2    50   Input ~ 0
+row4
+Text GLabel 10100 6200 2    50   Input ~ 0
+row3
+Text GLabel 10100 6100 2    50   Input ~ 0
+row2
+Text GLabel 10100 6000 2    50   Input ~ 0
+row1
 $EndSCHEMATC
